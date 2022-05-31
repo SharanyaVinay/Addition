@@ -1,3 +1,3 @@
 const addition = require('./add');
 
-module.exports = addition;
+module.exports = addition(3,2);
